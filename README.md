@@ -1,2 +1,2 @@
-# mlu
-Problems and notes related to "machine learning" and what not.
+# Numerical Method Sandbox
+Experiments with numerical methods in Java.
